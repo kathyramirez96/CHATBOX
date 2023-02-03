@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "kathybd-f46fd": {
+      "hosting": {
+        "frontend": [
+          "kathybd-f46fd"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "kathybd-f46fd"
+  }
+}
